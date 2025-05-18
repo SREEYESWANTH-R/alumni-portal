@@ -18,9 +18,9 @@
 /out/
 
 #ui component
-/components
+
 /hooks
-/lib
+
 
 # production
 /build

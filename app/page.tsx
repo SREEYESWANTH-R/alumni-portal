@@ -13,7 +13,7 @@ export default function Home() {
           </h1>
           <p className="mt-2 md:text-[20px] text-justify">
             <span className="font-bold font-serif">Welcome to the Alumni Portal</span> – a vibrant space to reconnect,
-            share memories, and stay updated with your alma mater. Whether you're looking to catch up with old friends,
+            share memories, and stay updated with your alma mater. Whether you&rsquo;re looking to catch up with old friends,
             explore networking opportunities, or give back to the community, this portal is your bridge to the past and
             pathway to the future.
           </p>

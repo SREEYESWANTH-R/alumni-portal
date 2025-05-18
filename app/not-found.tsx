@@ -6,10 +6,10 @@ export default function NotFound() {
     return (
       <div className="min-h-screen flex flex-col items-center justify-center text-center px-4">
         <h1 className="text-6xl font-bold text-red-600 mb-4">404</h1>
-        <h2 className="text-2xl font-semibold mb-2">Oops! You've wandered off the campus 🏫</h2>
+        <h2 className="text-2xl font-semibold mb-2">Oops! You&rsquo;ve wandered off the campus 🏫</h2>
         <p className="text-gray-600 mb-6">
           This page seems to have graduated... or maybe it just skipped class. <br />
-          Let's get you back to familiar grounds!
+          Let&rsquo;s get you back to familiar grounds!
         </p>
         <Link
           href="/home/feed"
