@@ -13,7 +13,7 @@ interface UserPayload {
 
 export const generateToken = (user: UserPayload): string => {
   return jwt.sign(
-    { id: user._id, email: user.email, username: user.name },
+    { id: user._id, email: user.email},
     JWT_SECRET
   );
 };
